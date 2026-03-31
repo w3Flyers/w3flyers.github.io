@@ -1,1 +1,1 @@
-w3Flyers - promo advertising.
+w3Flyers - IT Products & Services.
