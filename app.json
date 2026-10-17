@@ -1,783 +1,875 @@
 {
-  "data": [
-    {
-      "app_name": "w3Ghana",
-      "app_details": "0000 on w3Studio",
-      "app_logo": "https://git.esmond.dev/logo.png",
-      "app_banner": "https://git.esmond.dev/banner.png",
-      "app_update": "https://play.google.com/store/apps/details?id=com.w3ghana.apps",
-      "app_version": 1,
+  "data": [{
+      "app_name": "0000 Studio",
+      "app_logo": "images/logo.png",
+      "app_banner": "images/banner.png",
+      "app_zone": "Africa/Accra",
+      "app_code": "0000",
       "app_group": "group",
-      "app_base": [
-        {
-          "base_name": "00:00 flyers",
-          "base_details": "00:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0000/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0000/banner.png",
+      "app_base": [{
+          "base_name": "01 Studio",
+          "base_icon": "channels/01.png",
+          "base_logo": "flyers/0000/logo.png",
+          "base_banner": "flyers/0000/banner.png",
+          "base_video": "flyers/0000/video/video.mp4",
+          "base_stream": "a01/live.mpd",
           "base_start": "00:00 am",
           "base_end": "00:01 am"
-        },
-        {
-          "base_name": "00:15 flyers",
-          "base_details": "00:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0015/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0015/banner.png",
+        },{
+          "base_name": "02 Studio",
+          "base_icon": "channels/02.png",
+          "base_logo": "flyers/0015/logo.png",
+          "base_banner": "flyers/0015/banner.png",
+          "base_video": "flyers/0015/video/video.mp4",
+          "base_stream": "a02/live.mpd",
           "base_start": "00:15 am",
           "base_end": "00:16 am"
-        },
-        {
-          "base_name": "00:30 flyers",
-          "base_details": "00:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0030/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0030/banner.png",
+        },{
+          "base_name": "03 Studio",
+          "base_icon": "channels/03.png",
+          "base_logo": "flyers/0030/logo.png",
+          "base_banner": "flyers/0030/banner.png",
+          "base_video": "flyers/0030/video/video.mp4",
+          "base_stream": "a03/live.mpd",
           "base_start": "00:30 am",
           "base_end": "00:31 am"
-        },
-        {
-          "base_name": "00:45 flyers",
-          "base_details": "00:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0045/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0045/banner.png",
+        },{
+          "base_name": "04 Studio",
+          "base_icon": "channels/04.png",
+          "base_logo": "flyers/0045/logo.png",
+          "base_banner": "flyers/0045/banner.png",
+          "base_video": "flyers/0045/video/video.mp4",
+          "base_stream": "a04/live.mpd",
           "base_start": "00:45 am",
           "base_end": "00:46 am"
-        },
-        {
-          "base_name": "01:00 flyers",
-          "base_details": "01:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0100/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0100/banner.png",
+        },{
+          "base_name": "05 Studio",
+          "base_icon": "channels/05.png",
+          "base_logo": "flyers/0100/logo.png",
+          "base_banner": "flyers/0100/banner.png",
+          "base_video": "flyers/0100/video/video.mp4",
+          "base_stream": "a05/live.mpd",
           "base_start": "01:00 am",
           "base_end": "01:01 am"
-        },
-        {
-          "base_name": "01:15 flyers",
-          "base_details": "01:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0115/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0115/banner.png",
+        },{
+          "base_name": "06 Studio",
+          "base_icon": "channels/06.png",
+          "base_logo": "flyers/0115/logo.png",
+          "base_banner": "flyers/0115/banner.png",
+          "base_video": "flyers/0115/video/video.mp4",
+          "base_stream": "a06/live.mpd",
           "base_start": "01:15 am",
           "base_end": "01:16 am"
-        },
-        {
-          "base_name": "01:30 flyers",
-          "base_details": "01:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0130/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0130/banner.png",
+        },{
+          "base_name": "07 Studio",
+          "base_icon": "channels/07.png",
+          "base_logo": "flyers/0130/logo.png",
+          "base_banner": "flyers/0130/banner.png",
+          "base_video": "flyers/0130/video/video.mp4",
+          "base_stream": "a07/live.mpd",
           "base_start": "01:30 am",
           "base_end": "01:31 am"
-        },
-        {
-          "base_name": "01:45 flyers",
-          "base_details": "01:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0145/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0145/banner.png",
+        },{
+          "base_name": "08 Studio",
+          "base_icon": "channels/08.png",
+          "base_logo": "flyers/0145/logo.png",
+          "base_banner": "flyers/0145/banner.png",
+          "base_video": "flyers/0145/video/video.mp4",
+          "base_stream": "a08/live.mpd",
           "base_start": "01:45 am",
           "base_end": "01:46 am"
-        },
-        {
-          "base_name": "02:00 flyers",
-          "base_details": "02:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0200/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0200/banner.png",
+        },{
+          "base_name": "09 Studio",
+          "base_icon": "channels/09.png",
+          "base_logo": "flyers/0200/logo.png",
+          "base_banner": "flyers/0200/banner.png",
+          "base_video": "flyers/0200/video/video.mp4",
+          "base_stream": "a09/live.mpd",
           "base_start": "02:00 am",
           "base_end": "02:01 am"
-        },
-        {
-          "base_name": "02:15 flyers",
-          "base_details": "02:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0215/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0215/banner.png",
+        },{
+          "base_name": "10 Studio",
+          "base_icon": "channels/10.png",
+          "base_logo": "flyers/0215/logo.png",
+          "base_banner": "flyers/0215/banner.png",
+          "base_video": "flyers/0215/video/video.mp4",
+          "base_stream": "a10/live.mpd",
           "base_start": "02:15 am",
           "base_end": "02:16 am"
-        },
-        {
-          "base_name": "02:30 flyers",
-          "base_details": "02:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0230/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0230/banner.png",
+        },{
+          "base_name": "11 Studio",
+          "base_icon": "channels/11.png",
+          "base_logo": "flyers/0230/logo.png",
+          "base_banner": "flyers/0230/banner.png",
+          "base_video": "flyers/0230/video/video.mp4",
+          "base_stream": "a11/live.mpd",
           "base_start": "02:30 am",
           "base_end": "02:31 am"
-        },
-        {
-          "base_name": "02:45 flyers",
-          "base_details": "02:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0245/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0245/banner.png",
+        },{
+          "base_name": "12 Studio",
+          "base_icon": "channels/12.png",
+          "base_logo": "flyers/0245/logo.png",
+          "base_banner": "flyers/0245/banner.png",
+          "base_video": "flyers/0245/video/video.mp4",
+          "base_stream": "a12/live.mpd",
           "base_start": "02:45 am",
           "base_end": "02:46 am"
-        },
-        {
-          "base_name": "03:00 flyers",
-          "base_details": "03:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0300/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0300/banner.png",
+        },{
+          "base_name": "13 Studio",
+          "base_icon": "channels/13.png",
+          "base_logo": "flyers/0300/logo.png",
+          "base_banner": "flyers/0300/banner.png",
+          "base_video": "flyers/0300/video/video.mp4",
+          "base_stream": "a13/live.mpd",
           "base_start": "03:00 am",
           "base_end": "03:01 am"
-        },
-        {
-          "base_name": "03:15 flyers",
-          "base_details": "03:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0315/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0315/banner.png",
+        },{
+          "base_name": "14 Studio",
+          "base_icon": "channels/14.png",
+          "base_logo": "flyers/0315/logo.png",
+          "base_banner": "flyers/0315/banner.png",
+          "base_video": "flyers/0315/video/video.mp4",
+          "base_stream": "a14/live.mpd",
           "base_start": "03:15 am",
           "base_end": "03:16 am"
-        },
-        {
-          "base_name": "03:30 flyers",
-          "base_details": "03:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0330/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0330/banner.png",
+        },{
+          "base_name": "15 Studio",
+          "base_icon": "channels/15.png",
+          "base_logo": "flyers/0330/logo.png",
+          "base_banner": "flyers/0330/banner.png",
+          "base_video": "flyers/0330/video/video.mp4",
+          "base_stream": "a15/live.mpd",
           "base_start": "03:30 am",
           "base_end": "03:31 am"
-        },
-        {
-          "base_name": "03:45 flyers",
-          "base_details": "03:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0345/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0345/banner.png",
+        },{
+          "base_name": "16 Studio",
+          "base_icon": "channels/16.png",
+          "base_logo": "flyers/0345/logo.png",
+          "base_banner": "flyers/0345/banner.png",
+          "base_video": "flyers/0345/video/video.mp4",
+          "base_stream": "a16/live.mpd",
           "base_start": "03:45 am",
           "base_end": "03:46 am"
-        },
-        {
-          "base_name": "04:00 flyers",
-          "base_details": "04:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0400/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0400/banner.png",
+        },{
+          "base_name": "17 Studio",
+          "base_icon": "channels/17.png",
+          "base_logo": "flyers/0400/logo.png",
+          "base_banner": "flyers/0400/banner.png",
+          "base_video": "flyers/0400/video/video.mp4",
+          "base_stream": "a17/live.mpd",
           "base_start": "04:00 am",
           "base_end": "04:01 am"
-        },
-        {
-          "base_name": "04:15 flyers",
-          "base_details": "04:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0415/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0415/banner.png",
+        },{
+          "base_name": "18 Studio",
+          "base_icon": "channels/18.png",
+          "base_logo": "flyers/0415/logo.png",
+          "base_banner": "flyers/0415/banner.png",
+          "base_video": "flyers/0415/video/video.mp4",
+          "base_stream": "a18/live.mpd",
           "base_start": "04:15 am",
           "base_end": "04:16 am"
-        },
-        {
-          "base_name": "04:30 flyers",
-          "base_details": "04:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0430/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0430/banner.png",
+        },{
+          "base_name": "19 Studio",
+          "base_icon": "channels/19.png",
+          "base_logo": "flyers/0430/logo.png",
+          "base_banner": "flyers/0430/banner.png",
+          "base_video": "flyers/0430/video/video.mp4",
+          "base_stream": "a19/live.mpd",
           "base_start": "04:30 am",
           "base_end": "04:31 am"
-        },
-        {
-          "base_name": "04:45 flyers",
-          "base_details": "04:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0445/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0445/banner.png",
+        },{
+          "base_name": "20 Studio",
+          "base_icon": "channels/20.png",
+          "base_logo": "flyers/0445/logo.png",
+          "base_banner": "flyers/0445/banner.png",
+          "base_video": "flyers/0445/video/video.mp4",
+          "base_stream": "a20/live.mpd",
           "base_start": "04:45 am",
           "base_end": "04:46 am"
-        },
-        {
-          "base_name": "05:00 flyers",
-          "base_details": "05:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0500/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0500/banner.png",
+        },{
+          "base_name": "21 Studio",
+          "base_icon": "channels/21.png",
+          "base_logo": "flyers/0500/logo.png",
+          "base_banner": "flyers/0500/banner.png",
+          "base_video": "flyers/0500/video/video.mp4",
+          "base_stream": "a21/live.mpd",
           "base_start": "05:00 am",
           "base_end": "05:01 am"
-        },
-        {
-          "base_name": "05:15 flyers",
-          "base_details": "05:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0515/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0515/banner.png",
+        },{
+          "base_name": "22 Studio",
+          "base_icon": "channels/22.png",
+          "base_logo": "flyers/0515/logo.png",
+          "base_banner": "flyers/0515/banner.png",
+          "base_video": "flyers/0515/video/video.mp4",
+          "base_stream": "a22/live.mpd",
           "base_start": "05:15 am",
           "base_end": "05:16 am"
-        },
-        {
-          "base_name": "05:30 flyers",
-          "base_details": "05:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0530/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0530/banner.png",
+        },{
+          "base_name": "23 Studio",
+          "base_icon": "channels/23.png",
+          "base_logo": "flyers/0530/logo.png",
+          "base_banner": "flyers/0530/banner.png",
+          "base_video": "flyers/0530/video/video.mp4",
+          "base_stream": "a23/live.mpd",
           "base_start": "05:30 am",
           "base_end": "05:31 am"
-        },
-        {
-          "base_name": "05:45 flyers",
-          "base_details": "05:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0545/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0545/banner.png",
+        },{
+          "base_name": "24 Studio",
+          "base_icon": "channels/24.png",
+          "base_logo": "flyers/0545/logo.png",
+          "base_banner": "flyers/0545/banner.png",
+          "base_video": "flyers/0545/video/video.mp4",
+          "base_stream": "a24/live.mpd",
           "base_start": "05:45 am",
           "base_end": "05:46 am"
-        },
-        {
-          "base_name": "06:00 flyers",
-          "base_details": "06:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0600/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0600/banner.png",
+        },{
+          "base_name": "25 Studio",
+          "base_icon": "channels/25.png",
+          "base_logo": "flyers/0600/logo.png",
+          "base_banner": "flyers/0600/banner.png",
+          "base_video": "flyers/0600/video/video.mp4",
+          "base_stream": "a25/live.mpd",
           "base_start": "06:00 am",
           "base_end": "06:01 am"
-        },
-        {
-          "base_name": "06:15 flyers",
-          "base_details": "06:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0615/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0615/banner.png",
+        },{
+          "base_name": "26 Studio",
+          "base_icon": "channels/26.png",
+          "base_logo": "flyers/0615/logo.png",
+          "base_banner": "flyers/0615/banner.png",
+          "base_video": "flyers/0615/video/video.mp4",
+          "base_stream": "a26/live.mpd",
           "base_start": "06:15 am",
           "base_end": "06:16 am"
-        },
-        {
-          "base_name": "06:30 flyers",
-          "base_details": "06:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0630/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0630/banner.png",
+        },{
+          "base_name": "27 Studio",
+          "base_icon": "channels/27.png",
+          "base_logo": "flyers/0630/logo.png",
+          "base_banner": "flyers/0630/banner.png",
+          "base_video": "flyers/0630/video/video.mp4",
+          "base_stream": "a27/live.mpd",
           "base_start": "06:30 am",
           "base_end": "06:31 am"
-        },
-        {
-          "base_name": "06:45 flyers",
-          "base_details": "06:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0645/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0645/banner.png",
+        },{
+          "base_name": "28 Studio",
+          "base_icon": "channels/28.png",
+          "base_logo": "flyers/0645/logo.png",
+          "base_banner": "flyers/0645/banner.png",
+          "base_video": "flyers/0645/video/video.mp4",
+          "base_stream": "a28/live.mpd",
           "base_start": "06:45 am",
           "base_end": "06:46 am"
-        },
-        {
-          "base_name": "07:00 flyers",
-          "base_details": "07:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0700/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0700/banner.png",
+        },{
+          "base_name": "29 Studio",
+          "base_icon": "channels/29.png",
+          "base_logo": "flyers/0700/logo.png",
+          "base_banner": "flyers/0700/banner.png",
+          "base_video": "flyers/0700/video/video.mp4",
+          "base_stream": "a29/live.mpd",
           "base_start": "07:00 am",
           "base_end": "07:01 am"
-        },
-        {
-          "base_name": "07:15 flyers",
-          "base_details": "07:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0715/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0715/banner.png",
+        },{
+          "base_name": "30 Studio",
+          "base_icon": "channels/30.png",
+          "base_logo": "flyers/0715/logo.png",
+          "base_banner": "flyers/0715/banner.png",
+          "base_video": "flyers/0715/video/video.mp4",
+          "base_stream": "a30/live.mpd",
           "base_start": "07:15 am",
           "base_end": "07:16 am"
-        },
-        {
-          "base_name": "07:30 flyers",
-          "base_details": "07:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0730/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0730/banner.png",
+        },{
+          "base_name": "31 Studio",
+          "base_icon": "channels/31.png",
+          "base_logo": "flyers/0730/logo.png",
+          "base_banner": "flyers/0730/banner.png",
+          "base_video": "flyers/0730/video/video.mp4",
+          "base_stream": "a31/live.mpd",
           "base_start": "07:30 am",
           "base_end": "07:31 am"
-        },
-        {
-          "base_name": "07:45 flyers",
-          "base_details": "07:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0745/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0745/banner.png",
+        },{
+          "base_name": "32 Studio",
+          "base_icon": "channels/32.png",
+          "base_logo": "flyers/0745/logo.png",
+          "base_banner": "flyers/0745/banner.png",
+          "base_video": "flyers/0745/video/video.mp4",
+          "base_stream": "a32/live.mpd",
           "base_start": "07:45 am",
           "base_end": "07:46 am"
-        },
-        {
-          "base_name": "08:00 flyers",
-          "base_details": "08:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0800/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0800/banner.png",
+        },{
+          "base_name": "33 Studio",
+          "base_icon": "channels/33.png",
+          "base_logo": "flyers/0800/logo.png",
+          "base_banner": "flyers/0800/banner.png",
+          "base_video": "flyers/0800/video/video.mp4",
+          "base_stream": "a33/live.mpd",
           "base_start": "08:00 am",
           "base_end": "08:01 am"
-        },
-        {
-          "base_name": "08:15 flyers",
-          "base_details": "08:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0815/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0815/banner.png",
+        },{
+          "base_name": "34 Studio",
+          "base_icon": "channels/34.png",
+          "base_logo": "flyers/0815/logo.png",
+          "base_banner": "flyers/0815/banner.png",
+          "base_video": "flyers/0815/video/video.mp4",
+          "base_stream": "a34/live.mpd",
           "base_start": "08:15 am",
           "base_end": "08:16 am"
-        },
-        {
-          "base_name": "08:30 flyers",
-          "base_details": "08:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0830/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0830/banner.png",
+        },{
+          "base_name": "35 Studio",
+          "base_icon": "channels/35.png",
+          "base_logo": "flyers/0830/logo.png",
+          "base_banner": "flyers/0830/banner.png",
+          "base_video": "flyers/0830/video/video.mp4",
+          "base_stream": "a35/live.mpd",
           "base_start": "08:30 am",
           "base_end": "08:31 am"
-        },
-        {
-          "base_name": "08:45 flyers",
-          "base_details": "08:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0845/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0845/banner.png",
+        },{
+          "base_name": "36 Studio",
+          "base_icon": "channels/36.png",
+          "base_logo": "flyers/0845/logo.png",
+          "base_banner": "flyers/0845/banner.png",
+          "base_video": "flyers/0845/video/video.mp4",
+          "base_stream": "a36/live.mpd",
           "base_start": "08:45 am",
           "base_end": "08:46 am"
-        },
-        {
-          "base_name": "09:00 flyers",
-          "base_details": "09:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0900/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0900/banner.png",
+        },{
+          "base_name": "37 Studio",
+          "base_icon": "channels/37.png",
+          "base_logo": "flyers/0900/logo.png",
+          "base_banner": "flyers/0900/banner.png",
+          "base_video": "flyers/0900/video/video.mp4",
+          "base_stream": "a37/live.mpd",
           "base_start": "09:00 am",
           "base_end": "09:01 am"
-        },
-        {
-          "base_name": "09:15 flyers",
-          "base_details": "09:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0915/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0915/banner.png",
+        },{
+          "base_name": "38 Studio",
+          "base_icon": "channels/38.png",
+          "base_logo": "flyers/0915/logo.png",
+          "base_banner": "flyers/0915/banner.png",
+          "base_video": "flyers/0915/video/video.mp4",
+          "base_stream": "a38/live.mpd",
           "base_start": "09:15 am",
           "base_end": "09:16 am"
-        },
-        {
-          "base_name": "09:30 flyers",
-          "base_details": "09:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0930/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0930/banner.png",
+        },{
+          "base_name": "39 Studio",
+          "base_icon": "channels/39.png",
+          "base_logo": "flyers/0930/logo.png",
+          "base_banner": "flyers/0930/banner.png",
+          "base_video": "flyers/0930/video/video.mp4",
+          "base_stream": "a39/live.mpd",
           "base_start": "09:30 am",
           "base_end": "09:31 am"
-        },
-        {
-          "base_name": "09:45 flyers",
-          "base_details": "09:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/0945/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/0945/banner.png",
+        },{
+          "base_name": "40 Studio",
+          "base_icon": "channels/40.png",
+          "base_logo": "flyers/0945/logo.png",
+          "base_banner": "flyers/0945/banner.png",
+          "base_video": "flyers/0945/video/video.mp4",
+          "base_stream": "a40/live.mpd",
           "base_start": "09:45 am",
           "base_end": "09:46 am"
-        },
-        {
-          "base_name": "10:00 flyers",
-          "base_details": "10:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1000/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1000/banner.png",
+        },{
+          "base_name": "41 Studio",
+          "base_icon": "channels/41.png",
+          "base_logo": "flyers/1000/logo.png",
+          "base_banner": "flyers/1000/banner.png",
+          "base_video": "flyers/1000/video/video.mp4",
+          "base_stream": "a41/live.mpd",
           "base_start": "10:00 am",
           "base_end": "10:01 am"
-        },
-        {
-          "base_name": "10:15 flyers",
-          "base_details": "10:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1015/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1015/banner.png",
+        },{
+          "base_name": "42 Studio",
+          "base_icon": "channels/42.png",
+          "base_logo": "flyers/1015/logo.png",
+          "base_banner": "flyers/1015/banner.png",
+          "base_video": "flyers/1015/video/video.mp4",
+          "base_stream": "a42/live.mpd",
           "base_start": "10:15 am",
           "base_end": "10:16 am"
-        },
-        {
-          "base_name": "10:30 flyers",
-          "base_details": "10:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1030/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1030/banner.png",
+        },{
+          "base_name": "43 Studio",
+          "base_icon": "channels/43.png",
+          "base_logo": "flyers/1030/logo.png",
+          "base_banner": "flyers/1030/banner.png",
+          "base_video": "flyers/1030/video/video.mp4",
+          "base_stream": "a43/live.mpd",
           "base_start": "10:30 am",
           "base_end": "10:31 am"
-        },
-        {
-          "base_name": "10:45 flyers",
-          "base_details": "10:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1045/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1045/banner.png",
+        },{
+          "base_name": "44 Studio",
+          "base_icon": "channels/44.png",
+          "base_logo": "flyers/1045/logo.png",
+          "base_banner": "flyers/1045/banner.png",
+          "base_video": "flyers/1045/video/video.mp4",
+          "base_stream": "a44/live.mpd",
           "base_start": "10:45 am",
           "base_end": "10:46 am"
-        },
-        {
-          "base_name": "11:00 flyers",
-          "base_details": "11:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1100/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1100/banner.png",
+        },{
+          "base_name": "45 Studio",
+          "base_icon": "channels/45.png",
+          "base_logo": "flyers/1100/logo.png",
+          "base_banner": "flyers/1100/banner.png",
+          "base_video": "flyers/1100/video/video.mp4",
+          "base_stream": "a45/live.mpd",
           "base_start": "11:00 am",
           "base_end": "11:01 am"
-        },
-        {
-          "base_name": "11:15 flyers",
-          "base_details": "11:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1115/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1115/banner.png",
+        },{
+          "base_name": "46 Studio",
+          "base_icon": "channels/46.png",
+          "base_logo": "flyers/1115/logo.png",
+          "base_banner": "flyers/1115/banner.png",
+          "base_video": "flyers/1115/video/video.mp4",
+          "base_stream": "a46/live.mpd",
           "base_start": "11:15 am",
           "base_end": "11:16 am"
-        },
-        {
-          "base_name": "11:30 flyers",
-          "base_details": "11:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1130/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1130/banner.png",
+        },{
+          "base_name": "47 Studio",
+          "base_icon": "channels/47.png",
+          "base_logo": "flyers/1130/logo.png",
+          "base_banner": "flyers/1130/banner.png",
+          "base_video": "flyers/1130/video/video.mp4",
+          "base_stream": "a47/live.mpd",
           "base_start": "11:30 am",
           "base_end": "11:31 am"
-        },
-        {
-          "base_name": "11:45 flyers",
-          "base_details": "11:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1145/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1145/banner.png",
+        },{
+          "base_name": "48 Studio",
+          "base_icon": "channels/48.png",
+          "base_logo": "flyers/1145/logo.png",
+          "base_banner": "flyers/1145/banner.png",
+          "base_video": "flyers/1145/video/video.mp4",
+          "base_stream": "a48/live.mpd",
           "base_start": "11:45 am",
           "base_end": "11:46 am"
-        },
-        {
-          "base_name": "12:00 flyers",
-          "base_details": "12:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1200/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1200/banner.png",
-          "base_start": "12:00 pm",
-          "base_end": "12:01 pm"
-        },
-        {
-          "base_name": "12:15 flyers",
-          "base_details": "12:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1215/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1215/banner.png",
-          "base_start": "12:15 pm",
-          "base_end": "12:16 pm"
-        },
-        {
-          "base_name": "12:30 flyers",
-          "base_details": "12:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1230/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1230/banner.png",
-          "base_start": "12:30 pm",
-          "base_end": "12:31 pm"
-        },
-        {
-          "base_name": "12:45 flyers",
-          "base_details": "12:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1245/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1245/banner.png",
-          "base_start": "12:45 pm",
-          "base_end": "12:46 pm"
-        },
-        {
-          "base_name": "13:00 flyers",
-          "base_details": "13:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1300/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1300/banner.png",
-          "base_start": "13:00 pm",
-          "base_end": "13:01 pm"
-        },
-        {
-          "base_name": "13:15 flyers",
-          "base_details": "13:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1315/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1315/banner.png",
-          "base_start": "13:15 pm",
-          "base_end": "13:16 pm"
-        },
-        {
-          "base_name": "13:30 flyers",
-          "base_details": "13:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1330/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1330/banner.png",
-          "base_start": "13:30 pm",
-          "base_end": "13:31 pm"
-        },
-        {
-          "base_name": "13:45 flyers",
-          "base_details": "13:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1345/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1345/banner.png",
-          "base_start": "13:45 pm",
-          "base_end": "13:46 pm"
-        },
-        {
-          "base_name": "14:00 flyers",
-          "base_details": "14:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1400/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1400/banner.png",
-          "base_start": "14:00 pm",
-          "base_end": "14:01 pm"
-        },
-        {
-          "base_name": "14:15 flyers",
-          "base_details": "14:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1415/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1415/banner.png",
-          "base_start": "14:15 pm",
-          "base_end": "14:16 pm"
-        },
-        {
-          "base_name": "14:30 flyers",
-          "base_details": "14:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1430/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1430/banner.png",
-          "base_start": "14:30 pm",
-          "base_end": "14:31 pm"
-        },
-        {
-          "base_name": "14:45 flyers",
-          "base_details": "14:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1445/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1445/banner.png",
-          "base_start": "14:45 pm",
-          "base_end": "14:46 pm"
-        },
-        {
-          "base_name": "15:00 flyers",
-          "base_details": "15:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1500/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1500/banner.png",
-          "base_start": "15:00 pm",
-          "base_end": "15:01 pm"
-        },
-        {
-          "base_name": "15:15 flyers",
-          "base_details": "15:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1515/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1515/banner.png",
-          "base_start": "15:15 pm",
-          "base_end": "15:16 pm"
-        },
-        {
-          "base_name": "15:30 flyers",
-          "base_details": "15:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1530/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1530/banner.png",
-          "base_start": "15:30 pm",
-          "base_end": "15:31 pm"
-        },
-        {
-          "base_name": "15:45 flyers",
-          "base_details": "15:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1545/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1545/banner.png",
-          "base_start": "15:45 pm",
-          "base_end": "15:46 pm"
-        },
-        {
-          "base_name": "16:00 flyers",
-          "base_details": "16:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1600/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1600/banner.png",
-          "base_start": "16:00 pm",
-          "base_end": "16:01 pm"
-        },
-        {
-          "base_name": "16:15 flyers",
-          "base_details": "16:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1615/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1615/banner.png",
-          "base_start": "16:15 pm",
-          "base_end": "16:16 pm"
-        },
-        {
-          "base_name": "16:30 flyers",
-          "base_details": "16:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1630/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1630/banner.png",
-          "base_start": "16:30 pm",
-          "base_end": "16:31 pm"
-        },
-        {
-          "base_name": "16:45 flyers",
-          "base_details": "16:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1645/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1645/banner.png",
-          "base_start": "16:45 pm",
-          "base_end": "16:46 pm"
-        },
-        {
-          "base_name": "17:00 flyers",
-          "base_details": "17:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1700/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1700/banner.png",
-          "base_start": "17:00 pm",
-          "base_end": "17:01 pm"
-        },
-        {
-          "base_name": "17:15 flyers",
-          "base_details": "17:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1715/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1715/banner.png",
-          "base_start": "17:15 pm",
-          "base_end": "17:16 pm"
-        },
-        {
-          "base_name": "17:30 flyers",
-          "base_details": "17:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1730/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1730/banner.png",
-          "base_start": "17:30 pm",
-          "base_end": "17:31 pm"
-        },
-        {
-          "base_name": "17:45 flyers",
-          "base_details": "17:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1745/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1745/banner.png",
-          "base_start": "17:45 pm",
-          "base_end": "17:46 pm"
-        },
-        {
-          "base_name": "18:00 flyers",
-          "base_details": "18:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1800/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1800/banner.png",
-          "base_start": "18:00 pm",
-          "base_end": "18:01 pm"
-        },
-        {
-          "base_name": "18:15 flyers",
-          "base_details": "18:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1815/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1815/banner.png",
-          "base_start": "18:15 pm",
-          "base_end": "18:16 pm"
-        },
-        {
-          "base_name": "18:30 flyers",
-          "base_details": "18:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1830/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1830/banner.png",
-          "base_start": "18:30 pm",
-          "base_end": "18:31 pm"
-        },
-        {
-          "base_name": "18:45 flyers",
-          "base_details": "18:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1845/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1845/banner.png",
-          "base_start": "18:45 pm",
-          "base_end": "18:46 pm"
-        },
-        {
-          "base_name": "19:00 flyers",
-          "base_details": "19:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1900/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1900/banner.png",
-          "base_start": "19:00 pm",
-          "base_end": "19:01 pm"
-        },
-        {
-          "base_name": "19:15 flyers",
-          "base_details": "19:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1915/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1915/banner.png",
-          "base_start": "19:15 pm",
-          "base_end": "19:16 pm"
-        },
-        {
-          "base_name": "19:30 flyers",
-          "base_details": "19:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1930/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1930/banner.png",
-          "base_start": "19:30 pm",
-          "base_end": "19:31 pm"
-        },
-        {
-          "base_name": "19:45 flyers",
-          "base_details": "19:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/1945/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/1945/banner.png",
-          "base_start": "19:45 pm",
-          "base_end": "19:46 pm"
-        },
-        {
-          "base_name": "20:00 flyers",
-          "base_details": "20:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2000/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2000/banner.png",
-          "base_start": "20:00 pm",
-          "base_end": "20:01 pm"
-        },
-        {
-          "base_name": "20:15 flyers",
-          "base_details": "20:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2015/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2015/banner.png",
-          "base_start": "20:15 pm",
-          "base_end": "20:16 pm"
-        },
-        {
-          "base_name": "20:30 flyers",
-          "base_details": "20:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2030/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2030/banner.png",
-          "base_start": "20:30 pm",
-          "base_end": "20:31 pm"
-        },
-        {
-          "base_name": "20:45 flyers",
-          "base_details": "20:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2045/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2045/banner.png",
-          "base_start": "20:45 pm",
-          "base_end": "20:46 pm"
-        },
-        {
-          "base_name": "21:00 flyers",
-          "base_details": "21:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2100/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2100/banner.png",
-          "base_start": "21:00 pm",
-          "base_end": "21:01 pm"
-        },
-        {
-          "base_name": "21:15 flyers",
-          "base_details": "21:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2115/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2115/banner.png",
-          "base_start": "21:15 pm",
-          "base_end": "21:16 pm"
-        },
-        {
-          "base_name": "21:30 flyers",
-          "base_details": "21:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2130/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2130/banner.png",
-          "base_start": "21:30 pm",
-          "base_end": "21:31 pm"
-        },
-        {
-          "base_name": "21:45 flyers",
-          "base_details": "21:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2145/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2145/banner.png",
-          "base_start": "21:45 pm",
-          "base_end": "21:46 pm"
-        },
-        {
-          "base_name": "22:00 flyers",
-          "base_details": "22:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2200/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2200/banner.png",
-          "base_start": "22:00 pm",
-          "base_end": "22:01 pm"
-        },
-        {
-          "base_name": "22:15 flyers",
-          "base_details": "22:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2215/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2215/banner.png",
-          "base_start": "22:15 pm",
-          "base_end": "22:16 pm"
-        },
-        {
-          "base_name": "22:30 flyers",
-          "base_details": "22:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2230/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2230/banner.png",
-          "base_start": "22:30 pm",
-          "base_end": "22:31 pm"
-        },
-        {
-          "base_name": "22:45 flyers",
-          "base_details": "22:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2245/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2245/banner.png",
-          "base_start": "22:45 pm",
-          "base_end": "22:46 pm"
-        },
-        {
-          "base_name": "23:00 flyers",
-          "base_details": "23:00 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2300/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2300/banner.png",
-          "base_start": "23:00 pm",
-          "base_end": "23:01 pm"
-        },
-        {
-          "base_name": "23:15 flyers",
-          "base_details": "23:15 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2315/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2315/banner.png",
-          "base_start": "23:15 pm",
-          "base_end": "23:16 pm"
-        },
-        {
-          "base_name": "23:30 flyers",
-          "base_details": "23:30 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2330/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2330/banner.png",
-          "base_start": "23:30 pm",
-          "base_end": "23:31 pm"
-        },
-        {
-          "base_name": "23:45 flyers",
-          "base_details": "23:45 on w3Studio",
-          "base_logo": "https://git.esmond.dev/flyers/2345/logo.png",
-          "base_banner": "https://git.esmond.dev/flyers/2345/banner.png",
-          "base_start": "23:45 pm",
-          "base_end": "23:46 pm"
-        }
-      ]
-    }
-  ]
+        },{
+          "base_name": "49 Studio",
+          "base_icon": "channels/49.png",
+          "base_logo": "flyers/1200/logo.png",
+          "base_banner": "flyers/1200/banner.png",
+          "base_video": "flyers/1200/video/video.mp4",
+          "base_stream": "a49/live.mpd",
+          "base_start": "12:00 am",
+          "base_end": "12:01 am"
+        },{
+          "base_name": "50 Studio",
+          "base_icon": "channels/50.png",
+          "base_logo": "flyers/1215/logo.png",
+          "base_banner": "flyers/1215/banner.png",
+          "base_video": "flyers/1215/video/video.mp4",
+          "base_stream": "a50/live.mpd",
+          "base_start": "12:15 am",
+          "base_end": "12:16 am"
+        },{
+          "base_name": "51 Studio",
+          "base_icon": "channels/51.png",
+          "base_logo": "flyers/1230/logo.png",
+          "base_banner": "flyers/1230/banner.png",
+          "base_video": "flyers/1230/video/video.mp4",
+          "base_stream": "a51/live.mpd",
+          "base_start": "12:30 am",
+          "base_end": "12:31 am"
+        },{
+          "base_name": "52 Studio",
+          "base_icon": "channels/52.png",
+          "base_logo": "flyers/1245/logo.png",
+          "base_banner": "flyers/1245/banner.png",
+          "base_video": "flyers/1245/video/video.mp4",
+          "base_stream": "a52/live.mpd",
+          "base_start": "12:45 am",
+          "base_end": "12:46 am"
+        },{
+          "base_name": "53 Studio",
+          "base_icon": "channels/53.png",
+          "base_logo": "flyers/1300/logo.png",
+          "base_banner": "flyers/1300/banner.png",
+          "base_video": "flyers/1300/video/video.mp4",
+          "base_stream": "a53/live.mpd",
+          "base_start": "13:00 am",
+          "base_end": "13:01 am"
+        },{
+          "base_name": "54 Studio",
+          "base_icon": "channels/54.png",
+          "base_logo": "flyers/1315/logo.png",
+          "base_banner": "flyers/1315/banner.png",
+          "base_video": "flyers/1315/video/video.mp4",
+          "base_stream": "a54/live.mpd",
+          "base_start": "13:15 am",
+          "base_end": "13:16 am"
+        },{
+          "base_name": "55 Studio",
+          "base_icon": "channels/55.png",
+          "base_logo": "flyers/1330/logo.png",
+          "base_banner": "flyers/1330/banner.png",
+          "base_video": "flyers/1330/video/video.mp4",
+          "base_stream": "a55/live.mpd",
+          "base_start": "13:30 am",
+          "base_end": "13:31 am"
+        },{
+          "base_name": "56 Studio",
+          "base_icon": "channels/56.png",
+          "base_logo": "flyers/1345/logo.png",
+          "base_banner": "flyers/1345/banner.png",
+          "base_video": "flyers/1345/video/video.mp4",
+          "base_stream": "a56/live.mpd",
+          "base_start": "13:45 am",
+          "base_end": "13:46 am"
+        },{
+          "base_name": "57 Studio",
+          "base_icon": "channels/57.png",
+          "base_logo": "flyers/1400/logo.png",
+          "base_banner": "flyers/1400/banner.png",
+          "base_video": "flyers/1400/video/video.mp4",
+          "base_stream": "a57/live.mpd",
+          "base_start": "14:00 am",
+          "base_end": "14:01 am"
+        },{
+          "base_name": "58 Studio",
+          "base_icon": "channels/58.png",
+          "base_logo": "flyers/1415/logo.png",
+          "base_banner": "flyers/1415/banner.png",
+          "base_video": "flyers/1415/video/video.mp4",
+          "base_stream": "a58/live.mpd",
+          "base_start": "14:15 am",
+          "base_end": "14:16 am"
+        },{
+          "base_name": "59 Studio",
+          "base_icon": "channels/59.png",
+          "base_logo": "flyers/1430/logo.png",
+          "base_banner": "flyers/1430/banner.png",
+          "base_video": "flyers/1430/video/video.mp4",
+          "base_stream": "a59/live.mpd",
+          "base_start": "14:30 am",
+          "base_end": "14:31 am"
+        },{
+          "base_name": "60 Studio",
+          "base_icon": "channels/60.png",
+          "base_logo": "flyers/1445/logo.png",
+          "base_banner": "flyers/1445/banner.png",
+          "base_video": "flyers/1445/video/video.mp4",
+          "base_stream": "a60/live.mpd",
+          "base_start": "14:45 am",
+          "base_end": "14:46 am"
+        },{
+          "base_name": "61 Studio",
+          "base_icon": "channels/61.png",
+          "base_logo": "flyers/1500/logo.png",
+          "base_banner": "flyers/1500/banner.png",
+          "base_video": "flyers/1500/video/video.mp4",
+          "base_stream": "a61/live.mpd",
+          "base_start": "15:00 am",
+          "base_end": "15:01 am"
+        },{
+          "base_name": "62 Studio",
+          "base_icon": "channels/62.png",
+          "base_logo": "flyers/1515/logo.png",
+          "base_banner": "flyers/1515/banner.png",
+          "base_video": "flyers/1515/video/video.mp4",
+          "base_stream": "a62/live.mpd",
+          "base_start": "15:15 am",
+          "base_end": "15:16 am"
+        },{
+          "base_name": "63 Studio",
+          "base_icon": "channels/63.png",
+          "base_logo": "flyers/1530/logo.png",
+          "base_banner": "flyers/1530/banner.png",
+          "base_video": "flyers/1530/video/video.mp4",
+          "base_stream": "a63/live.mpd",
+          "base_start": "15:30 am",
+          "base_end": "15:31 am"
+        },{
+          "base_name": "64 Studio",
+          "base_icon": "channels/64.png",
+          "base_logo": "flyers/1545/logo.png",
+          "base_banner": "flyers/1545/banner.png",
+          "base_video": "flyers/1545/video/video.mp4",
+          "base_stream": "a64/live.mpd",
+          "base_start": "15:45 am",
+          "base_end": "15:46 am"
+        },{
+          "base_name": "65 Studio",
+          "base_icon": "channels/65.png",
+          "base_logo": "flyers/1600/logo.png",
+          "base_banner": "flyers/1600/banner.png",
+          "base_video": "flyers/1600/video/video.mp4",
+          "base_stream": "a65/live.mpd",
+          "base_start": "16:00 am",
+          "base_end": "16:01 am"
+        },{
+          "base_name": "66 Studio",
+          "base_icon": "channels/66.png",
+          "base_logo": "flyers/1615/logo.png",
+          "base_banner": "flyers/1615/banner.png",
+          "base_video": "flyers/1615/video/video.mp4",
+          "base_stream": "a66/live.mpd",
+          "base_start": "16:15 am",
+          "base_end": "16:16 am"
+        },{
+          "base_name": "67 Studio",
+          "base_icon": "channels/67.png",
+          "base_logo": "flyers/1630/logo.png",
+          "base_banner": "flyers/1630/banner.png",
+          "base_video": "flyers/1630/video/video.mp4",
+          "base_stream": "a67/live.mpd",
+          "base_start": "16:30 am",
+          "base_end": "16:31 am"
+        },{
+          "base_name": "68 Studio",
+          "base_icon": "channels/68.png",
+          "base_logo": "flyers/1645/logo.png",
+          "base_banner": "flyers/1645/banner.png",
+          "base_video": "flyers/1645/video/video.mp4",
+          "base_stream": "a68/live.mpd",
+          "base_start": "16:45 am",
+          "base_end": "16:46 am"
+        },{
+          "base_name": "69 Studio",
+          "base_icon": "channels/69.png",
+          "base_logo": "flyers/1700/logo.png",
+          "base_banner": "flyers/1700/banner.png",
+          "base_video": "flyers/1700/video/video.mp4",
+          "base_stream": "a69/live.mpd",
+          "base_start": "17:00 am",
+          "base_end": "17:01 am"
+        },{
+          "base_name": "70 Studio",
+          "base_icon": "channels/70.png",
+          "base_logo": "flyers/1715/logo.png",
+          "base_banner": "flyers/1715/banner.png",
+          "base_video": "flyers/1715/video/video.mp4",
+          "base_stream": "a70/live.mpd",
+          "base_start": "17:15 am",
+          "base_end": "17:16 am"
+        },{
+          "base_name": "71 Studio",
+          "base_icon": "channels/71.png",
+          "base_logo": "flyers/1730/logo.png",
+          "base_banner": "flyers/1730/banner.png",
+          "base_video": "flyers/1730/video/video.mp4",
+          "base_stream": "a71/live.mpd",
+          "base_start": "17:30 am",
+          "base_end": "17:31 am"
+        },{
+          "base_name": "72 Studio",
+          "base_icon": "channels/72.png",
+          "base_logo": "flyers/1745/logo.png",
+          "base_banner": "flyers/1745/banner.png",
+          "base_video": "flyers/1745/video/video.mp4",
+          "base_stream": "a72/live.mpd",
+          "base_start": "17:45 am",
+          "base_end": "17:46 am"
+        },{
+          "base_name": "73 Studio",
+          "base_icon": "channels/73.png",
+          "base_logo": "flyers/1800/logo.png",
+          "base_banner": "flyers/1800/banner.png",
+          "base_video": "flyers/1800/video/video.mp4",
+          "base_stream": "a73/live.mpd",
+          "base_start": "18:00 am",
+          "base_end": "18:01 am"
+        },{
+          "base_name": "74 Studio",
+          "base_icon": "channels/74.png",
+          "base_logo": "flyers/1815/logo.png",
+          "base_banner": "flyers/1815/banner.png",
+          "base_video": "flyers/1815/video/video.mp4",
+          "base_stream": "a74/live.mpd",
+          "base_start": "18:15 am",
+          "base_end": "18:16 am"
+        },{
+          "base_name": "75 Studio",
+          "base_icon": "channels/75.png",
+          "base_logo": "flyers/1830/logo.png",
+          "base_banner": "flyers/1830/banner.png",
+          "base_video": "flyers/1830/video/video.mp4",
+          "base_stream": "a75/live.mpd",
+          "base_start": "18:30 am",
+          "base_end": "18:31 am"
+        },{
+          "base_name": "76 Studio",
+          "base_icon": "channels/76.png",
+          "base_logo": "flyers/1845/logo.png",
+          "base_banner": "flyers/1845/banner.png",
+          "base_video": "flyers/1845/video/video.mp4",
+          "base_stream": "a76/live.mpd",
+          "base_start": "18:45 am",
+          "base_end": "18:46 am"
+        },{
+          "base_name": "77 Studio",
+          "base_icon": "channels/77.png",
+          "base_logo": "flyers/1900/logo.png",
+          "base_banner": "flyers/1900/banner.png",
+          "base_video": "flyers/1900/video/video.mp4",
+          "base_stream": "a77/live.mpd",
+          "base_start": "19:00 am",
+          "base_end": "19:01 am"
+        },{
+          "base_name": "78 Studio",
+          "base_icon": "channels/78.png",
+          "base_logo": "flyers/1915/logo.png",
+          "base_banner": "flyers/1915/banner.png",
+          "base_video": "flyers/1915/video/video.mp4",
+          "base_stream": "a78/live.mpd",
+          "base_start": "19:15 am",
+          "base_end": "19:16 am"
+        },{
+          "base_name": "79 Studio",
+          "base_icon": "channels/79.png",
+          "base_logo": "flyers/1930/logo.png",
+          "base_banner": "flyers/1930/banner.png",
+          "base_video": "flyers/1930/video/video.mp4",
+          "base_stream": "a79/live.mpd",
+          "base_start": "19:30 am",
+          "base_end": "19:31 am"
+        },{
+          "base_name": "80 Studio",
+          "base_icon": "channels/80.png",
+          "base_logo": "flyers/1945/logo.png",
+          "base_banner": "flyers/1945/banner.png",
+          "base_video": "flyers/1945/video/video.mp4",
+          "base_stream": "a80/live.mpd",
+          "base_start": "19:45 am",
+          "base_end": "19:46 am"
+        },{
+          "base_name": "81 Studio",
+          "base_icon": "channels/81.png",
+          "base_logo": "flyers/2000/logo.png",
+          "base_banner": "flyers/2000/banner.png",
+          "base_video": "flyers/2000/video/video.mp4",
+          "base_stream": "a81/live.mpd",
+          "base_start": "20:00 am",
+          "base_end": "20:01 am"
+        },{
+          "base_name": "82 Studio",
+          "base_icon": "channels/82.png",
+          "base_logo": "flyers/2015/logo.png",
+          "base_banner": "flyers/2015/banner.png",
+          "base_video": "flyers/2015/video/video.mp4",
+          "base_stream": "a82/live.mpd",
+          "base_start": "20:15 am",
+          "base_end": "20:16 am"
+        },{
+          "base_name": "83 Studio",
+          "base_icon": "channels/83.png",
+          "base_logo": "flyers/2030/logo.png",
+          "base_banner": "flyers/2030/banner.png",
+          "base_video": "flyers/2030/video/video.mp4",
+          "base_stream": "a83/live.mpd",
+          "base_start": "20:30 am",
+          "base_end": "20:31 am"
+        },{
+          "base_name": "84 Studio",
+          "base_icon": "channels/84.png",
+          "base_logo": "flyers/2045/logo.png",
+          "base_banner": "flyers/2045/banner.png",
+          "base_video": "flyers/2045/video/video.mp4",
+          "base_stream": "a84/live.mpd",
+          "base_start": "20:45 am",
+          "base_end": "20:46 am"
+        },{
+          "base_name": "85 Studio",
+          "base_icon": "channels/85.png",
+          "base_logo": "flyers/2100/logo.png",
+          "base_banner": "flyers/2100/banner.png",
+          "base_video": "flyers/2100/video/video.mp4",
+          "base_stream": "a85/live.mpd",
+          "base_start": "21:00 am",
+          "base_end": "21:01 am"
+        },{
+          "base_name": "86 Studio",
+          "base_icon": "channels/86.png",
+          "base_logo": "flyers/2115/logo.png",
+          "base_banner": "flyers/2115/banner.png",
+          "base_video": "flyers/2115/video/video.mp4",
+          "base_stream": "a86/live.mpd",
+          "base_start": "21:15 am",
+          "base_end": "21:16 am"
+        },{
+          "base_name": "87 Studio",
+          "base_icon": "channels/87.png",
+          "base_logo": "flyers/2130/logo.png",
+          "base_banner": "flyers/2130/banner.png",
+          "base_video": "flyers/2130/video/video.mp4",
+          "base_stream": "a87/live.mpd",
+          "base_start": "21:30 am",
+          "base_end": "21:31 am"
+        },{
+          "base_name": "88 Studio",
+          "base_icon": "channels/88.png",
+          "base_logo": "flyers/2145/logo.png",
+          "base_banner": "flyers/2145/banner.png",
+          "base_video": "flyers/2145/video/video.mp4",
+          "base_stream": "a88/live.mpd",
+          "base_start": "21:45 am",
+          "base_end": "21:46 am"
+        },{
+          "base_name": "89 Studio",
+          "base_icon": "channels/89.png",
+          "base_logo": "flyers/2200/logo.png",
+          "base_banner": "flyers/2200/banner.png",
+          "base_video": "flyers/2200/video/video.mp4",
+          "base_stream": "a89/live.mpd",
+          "base_start": "22:00 am",
+          "base_end": "22:01 am"
+        },{
+          "base_name": "90 Studio",
+          "base_icon": "channels/90.png",
+          "base_logo": "flyers/2215/logo.png",
+          "base_banner": "flyers/2215/banner.png",
+          "base_video": "flyers/2215/video/video.mp4",
+          "base_stream": "a90/live.mpd",
+          "base_start": "22:15 am",
+          "base_end": "22:16 am"
+        },{
+          "base_name": "91 Studio",
+          "base_icon": "channels/91.png",
+          "base_logo": "flyers/2230/logo.png",
+          "base_banner": "flyers/2230/banner.png",
+          "base_video": "flyers/2230/video/video.mp4",
+          "base_stream": "a91/live.mpd",
+          "base_start": "22:30 am",
+          "base_end": "22:31 am"
+        },{
+          "base_name": "92 Studio",
+          "base_icon": "channels/92.png",
+          "base_logo": "flyers/2245/logo.png",
+          "base_banner": "flyers/2245/banner.png",
+          "base_video": "flyers/2245/video/video.mp4",
+          "base_stream": "a92/live.mpd",
+          "base_start": "22:45 am",
+          "base_end": "22:46 am"
+        },{
+          "base_name": "93 Studio",
+          "base_icon": "channels/93.png",
+          "base_logo": "flyers/2300/logo.png",
+          "base_banner": "flyers/2300/banner.png",
+          "base_video": "flyers/2300/video/video.mp4",
+          "base_stream": "a93/live.mpd",
+          "base_start": "23:00 am",
+          "base_end": "23:01 am"
+        },{
+          "base_name": "94 Studio",
+          "base_icon": "channels/94.png",
+          "base_logo": "flyers/2315/logo.png",
+          "base_banner": "flyers/2315/banner.png",
+          "base_video": "flyers/2315/video/video.mp4",
+          "base_stream": "a94/live.mpd",
+          "base_start": "23:15 am",
+          "base_end": "23:16 am"
+        },{
+          "base_name": "95 Studio",
+          "base_icon": "channels/95.png",
+          "base_logo": "flyers/2330/logo.png",
+          "base_banner": "flyers/2330/banner.png",
+          "base_video": "flyers/2330/video/video.mp4",
+          "base_stream": "a95/live.mpd",
+          "base_start": "23:30 am",
+          "base_end": "23:31 am"
+        },{
+          "base_name": "96 Studio",
+          "base_icon": "channels/96.png",
+          "base_logo": "flyers/2345/logo.png",
+          "base_banner": "flyers/2345/banner.png",
+          "base_video": "flyers/2345/video/video.mp4",
+          "base_stream": "a96/live.mpd",
+          "base_start": "23:45 am",
+          "base_end": "23:46 am"
+        }]
+    }]
 }
