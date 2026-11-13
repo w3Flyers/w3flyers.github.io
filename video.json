@@ -1,0 +1,586 @@
+{
+  "data": [{
+      "app_name": "w3flyers",
+      "app_logo": "images/logo.png",
+      "app_banner": "images/banner.png",
+      "app_zone": "Africa/Accra",
+      "app_group": "group",
+      "app_base": [{
+          "base_name": "0000 flyers",
+          "base_logo": "flyers/0000/logo.png",
+          "base_video": "flyers/0000/video.mp4",
+          "base_start": "00:00 am",
+          "base_end": "00:01 am"
+        },{
+          "base_name": "0015 flyers",
+          "base_logo": "flyers/0015/logo.png",
+          "base_video": "flyers/0015/video.mp4",
+          "base_start": "00:15 am",
+          "base_end": "00:16 am"
+        },{
+          "base_name": "0030 flyers",
+          "base_logo": "flyers/0030/logo.png",
+          "base_video": "flyers/0030/video.mp4",
+          "base_start": "00:30 am",
+          "base_end": "00:31 am"
+        },{
+          "base_name": "0045 flyers",
+          "base_logo": "flyers/0045/logo.png",
+          "base_video": "flyers/0045/video.mp4",
+          "base_start": "00:45 am",
+          "base_end": "00:46 am"
+        },{
+          "base_name": "0100 flyers",
+          "base_logo": "flyers/0100/logo.png",
+          "base_video": "flyers/0100/video.mp4",
+          "base_start": "01:00 am",
+          "base_end": "01:01 am"
+        },{
+          "base_name": "0115 flyers",
+          "base_logo": "flyers/0115/logo.png",
+          "base_video": "flyers/0115/video.mp4",
+          "base_start": "01:15 am",
+          "base_end": "01:16 am"
+        },{
+          "base_name": "0130 flyers",
+          "base_logo": "flyers/0130/logo.png",
+          "base_video": "flyers/0130/video.mp4",
+          "base_start": "01:30 am",
+          "base_end": "01:31 am"
+        },{
+          "base_name": "0145 flyers",
+          "base_logo": "flyers/0145/logo.png",
+          "base_video": "flyers/0145/video.mp4",
+          "base_start": "01:45 am",
+          "base_end": "01:46 am"
+        },{
+          "base_name": "0200 flyers",
+          "base_logo": "flyers/0200/logo.png",
+          "base_video": "flyers/0200/video.mp4",
+          "base_start": "02:00 am",
+          "base_end": "02:01 am"
+        },{
+          "base_name": "0215 flyers",
+          "base_logo": "flyers/0215/logo.png",
+          "base_video": "flyers/0215/video.mp4",
+          "base_start": "02:15 am",
+          "base_end": "02:16 am"
+        },{
+          "base_name": "0230 flyers",
+          "base_logo": "flyers/0230/logo.png",
+          "base_video": "flyers/0230/video.mp4",
+          "base_start": "02:30 am",
+          "base_end": "02:31 am"
+        },{
+          "base_name": "0245 flyers",
+          "base_logo": "flyers/0245/logo.png",
+          "base_video": "flyers/0245/video.mp4",
+          "base_start": "02:45 am",
+          "base_end": "02:46 am"
+        },{
+          "base_name": "0300 flyers",
+          "base_logo": "flyers/0300/logo.png",
+          "base_video": "flyers/0300/video.mp4",
+          "base_start": "03:00 am",
+          "base_end": "03:01 am"
+        },{
+          "base_name": "0315 flyers",
+          "base_logo": "flyers/0315/logo.png",
+          "base_video": "flyers/0315/video.mp4",
+          "base_start": "03:15 am",
+          "base_end": "03:16 am"
+        },{
+          "base_name": "0330 flyers",
+          "base_logo": "flyers/0330/logo.png",
+          "base_video": "flyers/0330/video.mp4",
+          "base_start": "03:30 am",
+          "base_end": "03:31 am"
+        },{
+          "base_name": "0345 flyers",
+          "base_logo": "flyers/0345/logo.png",
+          "base_video": "flyers/0345/video.mp4",
+          "base_start": "03:45 am",
+          "base_end": "03:46 am"
+        },{
+          "base_name": "0400 flyers",
+          "base_logo": "flyers/0400/logo.png",
+          "base_video": "flyers/0400/video.mp4",
+          "base_start": "04:00 am",
+          "base_end": "04:01 am"
+        },{
+          "base_name": "0415 flyers",
+          "base_logo": "flyers/0415/logo.png",
+          "base_video": "flyers/0415/video.mp4",
+          "base_start": "04:15 am",
+          "base_end": "04:16 am"
+        },{
+          "base_name": "0430 flyers",
+          "base_logo": "flyers/0430/logo.png",
+          "base_video": "flyers/0430/video.mp4",
+          "base_start": "04:30 am",
+          "base_end": "04:31 am"
+        },{
+          "base_name": "0445 flyers",
+          "base_logo": "flyers/0445/logo.png",
+          "base_video": "flyers/0445/video.mp4",
+          "base_start": "04:45 am",
+          "base_end": "04:46 am"
+        },{
+          "base_name": "0500 flyers",
+          "base_logo": "flyers/0500/logo.png",
+          "base_video": "flyers/0500/video.mp4",
+          "base_start": "05:00 am",
+          "base_end": "05:01 am"
+        },{
+          "base_name": "0515 flyers",
+          "base_logo": "flyers/0515/logo.png",
+          "base_video": "flyers/0515/video.mp4",
+          "base_start": "05:15 am",
+          "base_end": "05:16 am"
+        },{
+          "base_name": "0530 flyers",
+          "base_logo": "flyers/0530/logo.png",
+          "base_video": "flyers/0530/video.mp4",
+          "base_start": "05:30 am",
+          "base_end": "05:31 am"
+        },{
+          "base_name": "0545 flyers",
+          "base_logo": "flyers/0545/logo.png",
+          "base_video": "flyers/0545/video.mp4",
+          "base_start": "05:45 am",
+          "base_end": "05:46 am"
+        },{
+          "base_name": "0600 flyers",
+          "base_logo": "flyers/0600/logo.png",
+          "base_video": "flyers/0600/video.mp4",
+          "base_start": "06:00 am",
+          "base_end": "06:01 am"
+        },{
+          "base_name": "0615 flyers",
+          "base_logo": "flyers/0615/logo.png",
+          "base_video": "flyers/0615/video.mp4",
+          "base_start": "06:15 am",
+          "base_end": "06:16 am"
+        },{
+          "base_name": "0630 flyers",
+          "base_logo": "flyers/0630/logo.png",
+          "base_video": "flyers/0630/video.mp4",
+          "base_start": "06:30 am",
+          "base_end": "06:31 am"
+        },{
+          "base_name": "0645 flyers",
+          "base_logo": "flyers/0645/logo.png",
+          "base_video": "flyers/0645/video.mp4",
+          "base_start": "06:45 am",
+          "base_end": "06:46 am"
+        },{
+          "base_name": "0700 flyers",
+          "base_logo": "flyers/0700/logo.png",
+          "base_video": "flyers/0700/video.mp4",
+          "base_start": "07:00 am",
+          "base_end": "07:01 am"
+        },{
+          "base_name": "0715 flyers",
+          "base_logo": "flyers/0715/logo.png",
+          "base_video": "flyers/0715/video.mp4",
+          "base_start": "07:15 am",
+          "base_end": "07:16 am"
+        },{
+          "base_name": "0730 flyers",
+          "base_logo": "flyers/0730/logo.png",
+          "base_video": "flyers/0730/video.mp4",
+          "base_start": "07:30 am",
+          "base_end": "07:31 am"
+        },{
+          "base_name": "0745 flyers",
+          "base_logo": "flyers/0745/logo.png",
+          "base_video": "flyers/0745/video.mp4",
+          "base_start": "07:45 am",
+          "base_end": "07:46 am"
+        },{
+          "base_name": "0800 flyers",
+          "base_logo": "flyers/0800/logo.png",
+          "base_video": "flyers/0800/video.mp4",
+          "base_start": "08:00 am",
+          "base_end": "08:01 am"
+        },{
+          "base_name": "0815 flyers",
+          "base_logo": "flyers/0815/logo.png",
+          "base_video": "flyers/0815/video.mp4",
+          "base_start": "08:15 am",
+          "base_end": "08:16 am"
+        },{
+          "base_name": "0830 flyers",
+          "base_logo": "flyers/0830/logo.png",
+          "base_video": "flyers/0830/video.mp4",
+          "base_start": "08:30 am",
+          "base_end": "08:31 am"
+        },{
+          "base_name": "0845 flyers",
+          "base_logo": "flyers/0845/logo.png",
+          "base_video": "flyers/0845/video.mp4",
+          "base_start": "08:45 am",
+          "base_end": "08:46 am"
+        },{
+          "base_name": "0900 flyers",
+          "base_logo": "flyers/0900/logo.png",
+          "base_video": "flyers/0900/video.mp4",
+          "base_start": "09:00 am",
+          "base_end": "09:01 am"
+        },{
+          "base_name": "0915 flyers",
+          "base_logo": "flyers/0915/logo.png",
+          "base_video": "flyers/0915/video.mp4",
+          "base_start": "09:15 am",
+          "base_end": "09:16 am"
+        },{
+          "base_name": "0930 flyers",
+          "base_logo": "flyers/0930/logo.png",
+          "base_video": "flyers/0930/video.mp4",
+          "base_start": "09:30 am",
+          "base_end": "09:31 am"
+        },{
+          "base_name": "0945 flyers",
+          "base_logo": "flyers/0945/logo.png",
+          "base_video": "flyers/0945/video.mp4",
+          "base_start": "09:45 am",
+          "base_end": "09:46 am"
+        },{
+          "base_name": "1000 flyers",
+          "base_logo": "flyers/1000/logo.png",
+          "base_video": "flyers/1000/video.mp4",
+          "base_start": "10:00 am",
+          "base_end": "10:01 am"
+        },{
+          "base_name": "1015 flyers",
+          "base_logo": "flyers/1015/logo.png",
+          "base_video": "flyers/1015/video.mp4",
+          "base_start": "10:15 am",
+          "base_end": "10:16 am"
+        },{
+          "base_name": "1030 flyers",
+          "base_logo": "flyers/1030/logo.png",
+          "base_video": "flyers/1030/video.mp4",
+          "base_start": "10:30 am",
+          "base_end": "10:31 am"
+        },{
+          "base_name": "1045 flyers",
+          "base_logo": "flyers/1045/logo.png",
+          "base_video": "flyers/1045/video.mp4",
+          "base_start": "10:45 am",
+          "base_end": "10:46 am"
+        },{
+          "base_name": "1100 flyers",
+          "base_logo": "flyers/1100/logo.png",
+          "base_video": "flyers/1100/video.mp4",
+          "base_start": "11:00 am",
+          "base_end": "11:01 am"
+        },{
+          "base_name": "1115 flyers",
+          "base_logo": "flyers/1115/logo.png",
+          "base_video": "flyers/1115/video.mp4",
+          "base_start": "11:15 am",
+          "base_end": "11:16 am"
+        },{
+          "base_name": "1130 flyers",
+          "base_logo": "flyers/1130/logo.png",
+          "base_video": "flyers/1130/video.mp4",
+          "base_start": "11:30 am",
+          "base_end": "11:31 am"
+        },{
+          "base_name": "1145 flyers",
+          "base_logo": "flyers/1145/logo.png",
+          "base_video": "flyers/1145/video.mp4",
+          "base_start": "11:45 am",
+          "base_end": "11:46 am"
+        },{
+          "base_name": "1200 flyers",
+          "base_logo": "flyers/1200/logo.png",
+          "base_video": "flyers/1200/video.mp4",
+          "base_start": "12:00 pm",
+          "base_end": "12:01 pm"
+        },{
+          "base_name": "1215 flyers",
+          "base_logo": "flyers/1215/logo.png",
+          "base_video": "flyers/1215/video.mp4",
+          "base_start": "12:15 pm",
+          "base_end": "12:16 pm"
+        },{
+          "base_name": "1230 flyers",
+          "base_logo": "flyers/1230/logo.png",
+          "base_video": "flyers/1230/video.mp4",
+          "base_start": "12:30 pm",
+          "base_end": "12:31 pm"
+        },{
+          "base_name": "1245 flyers",
+          "base_logo": "flyers/1245/logo.png",
+          "base_video": "flyers/1245/video.mp4",
+          "base_start": "12:45 pm",
+          "base_end": "12:46 pm"
+        },{
+          "base_name": "1300 flyers",
+          "base_logo": "flyers/1300/logo.png",
+          "base_video": "flyers/1300/video.mp4",
+          "base_start": "13:00",
+          "base_end": "13:01"
+        },{
+          "base_name": "1315 flyers",
+          "base_logo": "flyers/1315/logo.png",
+          "base_video": "flyers/1315/video.mp4",
+          "base_start": "13:15",
+          "base_end": "13:16"
+        },{
+          "base_name": "1330 flyers",
+          "base_logo": "flyers/1330/logo.png",
+          "base_video": "flyers/1330/video.mp4",
+          "base_start": "13:30",
+          "base_end": "13:31"
+        },{
+          "base_name": "1345 flyers",
+          "base_logo": "flyers/1345/logo.png",
+          "base_video": "flyers/1345/video.mp4",
+          "base_start": "13:45",
+          "base_end": "13:46"
+        },{
+          "base_name": "1400 flyers",
+          "base_logo": "flyers/1400/logo.png",
+          "base_video": "flyers/1400/video.mp4",
+          "base_start": "14:00",
+          "base_end": "14:01"
+        },{
+          "base_name": "1415 flyers",
+          "base_logo": "flyers/1415/logo.png",
+          "base_video": "flyers/1415/video.mp4",
+          "base_start": "14:15",
+          "base_end": "14:16"
+        },{
+          "base_name": "1430 flyers",
+          "base_logo": "flyers/1430/logo.png",
+          "base_video": "flyers/1430/video.mp4",
+          "base_start": "14:30",
+          "base_end": "14:31"
+        },{
+          "base_name": "1445 flyers",
+          "base_logo": "flyers/1445/logo.png",
+          "base_video": "flyers/1445/video.mp4",
+          "base_start": "14:45",
+          "base_end": "14:46"
+        },{
+          "base_name": "1500 flyers",
+          "base_logo": "flyers/1500/logo.png",
+          "base_video": "flyers/1500/video.mp4",
+          "base_start": "15:00",
+          "base_end": "15:01"
+        },{
+          "base_name": "1515 flyers",
+          "base_logo": "flyers/1515/logo.png",
+          "base_video": "flyers/1515/video.mp4",
+          "base_start": "15:15",
+          "base_end": "15:16"
+        },{
+          "base_name": "1530 flyers",
+          "base_logo": "flyers/1530/logo.png",
+          "base_video": "flyers/1530/video.mp4",
+          "base_start": "15:30",
+          "base_end": "15:31"
+        },{
+          "base_name": "1545 flyers",
+          "base_logo": "flyers/1545/logo.png",
+          "base_video": "flyers/1545/video.mp4",
+          "base_start": "15:45",
+          "base_end": "15:46"
+        },{
+          "base_name": "1600 flyers",
+          "base_logo": "flyers/1600/logo.png",
+          "base_video": "flyers/1600/video.mp4",
+          "base_start": "16:00",
+          "base_end": "16:01"
+        },{
+          "base_name": "1615 flyers",
+          "base_logo": "flyers/1615/logo.png",
+          "base_video": "flyers/1615/video.mp4",
+          "base_start": "16:15",
+          "base_end": "16:16"
+        },{
+          "base_name": "1630 flyers",
+          "base_logo": "flyers/1630/logo.png",
+          "base_video": "flyers/1630/video.mp4",
+          "base_start": "16:30",
+          "base_end": "16:31"
+        },{
+          "base_name": "1645 flyers",
+          "base_logo": "flyers/1645/logo.png",
+          "base_video": "flyers/1645/video.mp4",
+          "base_start": "16:45",
+          "base_end": "16:46"
+        },{
+          "base_name": "1700 flyers",
+          "base_logo": "flyers/1700/logo.png",
+          "base_video": "flyers/1700/video.mp4",
+          "base_start": "17:00",
+          "base_end": "17:01"
+        },{
+          "base_name": "1715 flyers",
+          "base_logo": "flyers/1715/logo.png",
+          "base_video": "flyers/1715/video.mp4",
+          "base_start": "17:15",
+          "base_end": "17:16"
+        },{
+          "base_name": "1730 flyers",
+          "base_logo": "flyers/1730/logo.png",
+          "base_video": "flyers/1730/video.mp4",
+          "base_start": "17:30",
+          "base_end": "17:31"
+        },{
+          "base_name": "1745 flyers",
+          "base_logo": "flyers/1745/logo.png",
+          "base_video": "flyers/1745/video.mp4",
+          "base_start": "17:45",
+          "base_end": "17:46"
+        },{
+          "base_name": "1800 flyers",
+          "base_logo": "flyers/1800/logo.png",
+          "base_video": "flyers/1800/video.mp4",
+          "base_start": "18:00",
+          "base_end": "18:01"
+        },{
+          "base_name": "1815 flyers",
+          "base_logo": "flyers/1815/logo.png",
+          "base_video": "flyers/1815/video.mp4",
+          "base_start": "18:15",
+          "base_end": "18:16"
+        },{
+          "base_name": "1830 flyers",
+          "base_logo": "flyers/1830/logo.png",
+          "base_video": "flyers/1830/video.mp4",
+          "base_start": "18:30",
+          "base_end": "18:31"
+        },{
+          "base_name": "1845 flyers",
+          "base_logo": "flyers/1845/logo.png",
+          "base_video": "flyers/1845/video.mp4",
+          "base_start": "18:45",
+          "base_end": "18:46"
+        },{
+          "base_name": "1900 flyers",
+          "base_logo": "flyers/1900/logo.png",
+          "base_video": "flyers/1900/video.mp4",
+          "base_start": "19:00",
+          "base_end": "19:01"
+        },{
+          "base_name": "1915 flyers",
+          "base_logo": "flyers/1915/logo.png",
+          "base_video": "flyers/1915/video.mp4",
+          "base_start": "19:15",
+          "base_end": "19:16"
+        },{
+          "base_name": "1930 flyers",
+          "base_logo": "flyers/1930/logo.png",
+          "base_video": "flyers/1930/video.mp4",
+          "base_start": "19:30",
+          "base_end": "19:31"
+        },{
+          "base_name": "1945 flyers",
+          "base_logo": "flyers/1945/logo.png",
+          "base_video": "flyers/1945/video.mp4",
+          "base_start": "19:45",
+          "base_end": "19:46"
+        },{
+          "base_name": "2000 flyers",
+          "base_logo": "flyers/2000/logo.png",
+          "base_video": "flyers/2000/video.mp4",
+          "base_start": "20:00",
+          "base_end": "20:01"
+        },{
+          "base_name": "2015 flyers",
+          "base_logo": "flyers/2015/logo.png",
+          "base_video": "flyers/2015/video.mp4",
+          "base_start": "20:15",
+          "base_end": "20:16"
+        },{
+          "base_name": "2030 flyers",
+          "base_logo": "flyers/2030/logo.png",
+          "base_video": "flyers/2030/video.mp4",
+          "base_start": "20:30",
+          "base_end": "20:31"
+        },{
+          "base_name": "2045 flyers",
+          "base_logo": "flyers/2045/logo.png",
+          "base_video": "flyers/2045/video.mp4",
+          "base_start": "20:45",
+          "base_end": "20:46"
+        },{
+          "base_name": "2100 flyers",
+          "base_logo": "flyers/2100/logo.png",
+          "base_video": "flyers/2100/video.mp4",
+          "base_start": "21:00",
+          "base_end": "21:01"
+        },{
+          "base_name": "2115 flyers",
+          "base_logo": "flyers/2115/logo.png",
+          "base_video": "flyers/2115/video.mp4",
+          "base_start": "21:15",
+          "base_end": "21:16"
+        },{
+          "base_name": "2130 flyers",
+          "base_logo": "flyers/2130/logo.png",
+          "base_video": "flyers/2130/video.mp4",
+          "base_start": "21:30",
+          "base_end": "21:31"
+        },{
+          "base_name": "2145 flyers",
+          "base_logo": "flyers/2145/logo.png",
+          "base_video": "flyers/2145/video.mp4",
+          "base_start": "21:45",
+          "base_end": "21:46"
+        },{
+          "base_name": "2200 flyers",
+          "base_logo": "flyers/2200/logo.png",
+          "base_video": "flyers/2200/video.mp4",
+          "base_start": "22:00",
+          "base_end": "22:01"
+        },{
+          "base_name": "2215 flyers",
+          "base_logo": "flyers/2215/logo.png",
+          "base_video": "flyers/2215/video.mp4",
+          "base_start": "22:15",
+          "base_end": "22:16"
+        },{
+          "base_name": "2230 flyers",
+          "base_logo": "flyers/2230/logo.png",
+          "base_video": "flyers/2230/video.mp4",
+          "base_start": "22:30",
+          "base_end": "22:31"
+        },{
+          "base_name": "2245 flyers",
+          "base_logo": "flyers/2245/logo.png",
+          "base_video": "flyers/2245/video.mp4",
+          "base_start": "22:45",
+          "base_end": "22:46"
+        },{
+          "base_name": "2300 flyers",
+          "base_logo": "flyers/2300/logo.png",
+          "base_video": "flyers/2300/video.mp4",
+          "base_start": "23:00",
+          "base_end": "23:01"
+        },{
+          "base_name": "2315 flyers",
+          "base_logo": "flyers/2315/logo.png",
+          "base_video": "flyers/2315/video.mp4",
+          "base_start": "23:15",
+          "base_end": "23:16"
+        },{
+          "base_name": "2330 flyers",
+          "base_logo": "flyers/2330/logo.png",
+          "base_video": "flyers/2330/video.mp4",
+          "base_start": "23:30",
+          "base_end": "23:31"
+        },{
+          "base_name": "2345 flyers",
+          "base_logo": "flyers/2345/logo.png",
+          "base_video": "flyers/2345/video.mp4",
+          "base_start": "23:45",
+          "base_end": "23:46"
+        }]
+    }]
+}
